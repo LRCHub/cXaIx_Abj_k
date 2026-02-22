@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "きらめき",
+  "base_artist": "インナージャーニー",
+  "createdAt": "2026-02-22T13:35:16.950565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きらめき",
+      "artist": "Sān-Z",
+      "has_synced": false,
+      "path": "select/01_きらめき_Sān-Z.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きらめき",
+      "artist": "インナージャーニー",
+      "has_synced": false,
+      "path": "select/pl_01_きらめき_インナージャーニー.txt"
+    }
+  ]
+}
